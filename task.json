@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Python HW",
+        "description": "Modue 05",
+        "due_date": "2024-12-05",
+        "status": "pending"
+    },
+    {
+        "title": "dJnago quiz",
+        "description": "module 25 quiz",
+        "due_date": "2024-12-05",
+        "status": "pending"
+    },
+    {
+        "title": "English Lnaguage",
+        "description": "l2",
+        "due_date": "2024-12-12",
+        "status": "pending"
+    },
+    {
+        "title": "read python",
+        "description": "python tutorial",
+        "due_date": "2024-12-12",
+        "status": "pending"
+    }
+]

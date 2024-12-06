@@ -1,0 +1,38 @@
+[
+    {
+        "title": "clear",
+        "description": "c& C:/Users/arifu/AppData/Local/Programs/Python/Python312/python.exe \"d:/Ostad/Module 05/project/task_manager/task_manager.py\"",
+        "due_date": "& C:/Users/arifu/AppData/Local/Programs/Python/Python312/python.exe \"d:/Ostad/Module 05/project/task_manager/main.py\"",
+        "status": "Completed"
+    },
+    {
+        "title": "django",
+        "description": "hw",
+        "due_date": "2024-12-12",
+        "status": "Pending"
+    },
+    {
+        "title": "python",
+        "description": "hw",
+        "due_date": "2024-12-12",
+        "status": "Pending"
+    },
+    {
+        "title": "html",
+        "description": "hw",
+        "due_date": "2024-12-12",
+        "status": "Pending"
+    },
+    {
+        "title": "css",
+        "description": "hw",
+        "due_date": "2024-12-12",
+        "status": "Completed"
+    },
+    {
+        "title": "english",
+        "description": "hw",
+        "due_date": "2025-11-11",
+        "status": "Completed"
+    }
+]

@@ -1,0 +1,29 @@
+Project Idea: Task Manager
+
+Overview:
+A CLI-based application to help users organize and manage tasks.
+It allows adding, viewing, deleting, searching, and marking tasks as complete,
+with persistent storage to save and load tasks across sessions.
+
+Features:
+1. Add Task: Create tasks with title, description, and due date.
+2. View Tasks: Display all tasks with status (Pending/Completed).
+3. Remove Task: Delete tasks by selection.
+4. Mark Complete: Update task status to "Completed."
+5. Search Task: Find tasks by title or description (Bonus).
+6. Save/Load Tasks: Automatically save/load tasks to/from a file.
+7. Error Handling: Manage invalid inputs (e.g., wrong date format).
+
+8. Organize your project into multiple Python files, each dedicated to specific features or functionalities.
+
+
+task_manager/
+├── main.py
+├── task_manager.py
+├── storage.py
+└── task.json
+
+
+
+
+https://www.youtube.com/watch?v=mgcwggjhv0Y
